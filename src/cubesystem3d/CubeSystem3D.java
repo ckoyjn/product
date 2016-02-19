@@ -1,4 +1,4 @@
-/*
+/*1
  * Copyright (c) 2008, 2012 Oracle and/or its affiliates.
  * All rights reserved. Use is subject to license terms.
  *
@@ -144,9 +144,7 @@ public class CubeSystem3D extends Application {
         cube1_9X.rz.setAngle(-60.0);
 
         double endTime = 4000.0; 
-        double endTime = 4000.0;
-        double endTime = 4000.0;
-        double endTime = 4000.0;
+        
         // Animate
         animation = new Timeline();
         animation.getKeyFrames().addAll
