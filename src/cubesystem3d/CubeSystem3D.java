@@ -57,10 +57,13 @@ import javafx.util.Duration;
  * @see javafx.scene.paint.Color
  * @see javafx.scene.shape.RectangleBuilder
  */
+
 public class CubeSystem3D extends Application {
 
     private Timeline animation;
-
+    private Timeline anination;
+    private Timeline anination;
+    
     private void init(Stage primaryStage) {
         Group root = new Group();
         root.setDepthTest(DepthTest.ENABLE);
