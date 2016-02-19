@@ -58,7 +58,7 @@ import javafx.util.Duration;
  * @see javafx.scene.shape.RectangleBuilder
  */
 public class CubeSystem3D extends Application {
-2a
+1111111111111111
     private Timeline animation;
 
     private void init(Stage primaryStage) {
