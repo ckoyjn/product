@@ -57,6 +57,11 @@ import javafx.util.Duration;
  * @see javafx.scene.paint.Color
  * @see javafx.scene.shape.RectangleBuilder
  */
+public class CubeSystem3D extends Application{}
+public class CubeSystem3D extends Application{}
+public class CubeSystem3D extends Application {
+
+    private Timeline animation;
 
 public class CubeSystem3D extends Application {
 
