@@ -3,11 +3,11 @@
  * All rights reserved. Use is subject to license terms.
  *
  * This file is available and licensed under the following license:
- *222222
+ *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
  * are met:
- *1111
+ *
  *  - Redistributions of source code must retain the above copyright
  *    notice, this list of conditions and the following disclaimer.
  *  - Redistributions in binary form must reproduce the above copyright
@@ -57,18 +57,10 @@ import javafx.util.Duration;
  * @see javafx.scene.paint.Color
  * @see javafx.scene.shape.RectangleBuilder
  */
-public class CubeSystem3D extends Application{}
-public class CubeSystem3D extends Application{}
 public class CubeSystem3D extends Application {
-
-    private Timeline animation;
-
-public class CubeSystem3D extends Application {
-
-    private Timeline animation;
-    private Timeline anination;
-    private Timeline anination;
     
+    private Timeline animation;
+
     private void init(Stage primaryStage) {
         Group root = new Group();
         root.setDepthTest(DepthTest.ENABLE);
@@ -152,7 +144,9 @@ public class CubeSystem3D extends Application {
         cube1_9X.rz.setAngle(-60.0);
 
         double endTime = 4000.0; 
-        
+        double endTime = 4000.0;
+        double endTime = 4000.0;
+        double endTime = 4000.0;
         // Animate
         animation = new Timeline();
         animation.getKeyFrames().addAll
